@@ -1,0 +1,16 @@
+{
+  "title": "Lightweight, Fast & Responsive",
+  "text": "The Duckman template is designed for seamless use, requiring no modifications at the component level unless you wish to customize its default styling.",
+  "section": [
+    {
+      "title": "Why Tailwind CSS?",
+      "content": "Tailwind CSS provides a highly flexible utility-first approach, allowing for rapid and consistent styling without leaving your HTML.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why Styled-Components?",
+      "content": "Styled-Components offers complete control over component styling, enabling scoped styles with dynamic theming for a polished UI.",
+      "icon": "notes.svg"
+    }
+  ]
+}

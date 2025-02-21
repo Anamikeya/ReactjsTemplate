@@ -1,0 +1,13 @@
+{
+  "title": "Premium Landing Page Template for Innovators",
+  "text": "Crafted for developers and startups, the Duckman template offers sleek, high-performance designs using React.js, Tailwind CSS, and Styled-Components. Launch your landing page in minutes and save weeks of development time.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn More",
+      "color": "#fff"
+    }
+  ]
+}
